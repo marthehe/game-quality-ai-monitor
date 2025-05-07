@@ -12,7 +12,9 @@ platforms = ["Xbox One", "Series X", "PC"]
 event_types = ["info", "warning", "crash", "performance"]
 
 def generate_event():
-    event_type = random.choices(event_types, weights=[0.1, 0.1, 0.8, 0.0])[0]
+    event_type = "crash"
+
+
 
     
     return {

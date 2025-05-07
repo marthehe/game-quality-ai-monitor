@@ -157,3 +157,23 @@
 {"timestamp": "2025-05-07T20:12:23.741935", "platform": "Series X", "event_type": "crash", "code": "STACK_OVERFLOW", "fps": 50.27, "latency": 234.63, "level": "Level-4"}
 {"timestamp": "2025-05-07T20:12:25.745993", "platform": "Series X", "event_type": "crash", "code": "MEM_LEAK", "fps": 11.78, "latency": 183.76, "level": "Level-2"}
 {"timestamp": "2025-05-07T20:12:27.760142", "platform": "Series X", "event_type": "crash", "code": "NULL_PTR", "fps": 29.46, "latency": 20.82, "level": "Level-10"}
+{"timestamp": "2025-05-07T20:26:24.192644", "platform": "Xbox One", "event_type": "crash", "code": "STACK_OVERFLOW", "fps": 44.42, "latency": 101.96, "level": "Level-10"}
+{"timestamp": "2025-05-07T20:26:26.204397", "platform": "Xbox One", "event_type": "crash", "code": "NULL_PTR", "fps": 44.9, "latency": 160.61, "level": "Level-10"}
+{"timestamp": "2025-05-07T20:26:28.217097", "platform": "PC", "event_type": "crash", "code": "MEM_LEAK", "fps": 39.2, "latency": 247.41, "level": "Level-2"}
+{"timestamp": "2025-05-07T20:26:30.229047", "platform": "Xbox One", "event_type": "crash", "code": "NULL_PTR", "fps": 10.16, "latency": 65.63, "level": "Level-1"}
+{"timestamp": "2025-05-07T20:26:32.246589", "platform": "Xbox One", "event_type": "crash", "code": "MEM_LEAK", "fps": 33.2, "latency": 33.14, "level": "Level-2"}
+{"timestamp": "2025-05-07T20:26:34.257125", "platform": "Xbox One", "event_type": "crash", "code": "GPU_TIMEOUT", "fps": 26.55, "latency": 162.92, "level": "Level-2"}
+{"timestamp": "2025-05-07T20:26:36.270509", "platform": "Xbox One", "event_type": "crash", "code": "NULL_PTR", "fps": 30.74, "latency": 80.1, "level": "Level-6"}
+{"timestamp": "2025-05-07T20:26:38.282984", "platform": "Series X", "event_type": "crash", "code": "MEM_LEAK", "fps": 16.79, "latency": 150.78, "level": "Level-2"}
+{"timestamp": "2025-05-07T20:26:40.291532", "platform": "Xbox One", "event_type": "crash", "code": "NULL_PTR", "fps": 46.75, "latency": 243.72, "level": "Level-5"}
+{"timestamp": "2025-05-07T20:26:42.300690", "platform": "PC", "event_type": "crash", "code": "MEM_LEAK", "fps": 32.19, "latency": 55.25, "level": "Level-9"}
+{"timestamp": "2025-05-07T20:26:44.310282", "platform": "PC", "event_type": "crash", "code": "STACK_OVERFLOW", "fps": 55.75, "latency": 203.72, "level": "Level-2"}
+{"timestamp": "2025-05-07T20:26:46.320932", "platform": "Xbox One", "event_type": "crash", "code": "NULL_PTR", "fps": 36.14, "latency": 227.39, "level": "Level-5"}
+{"timestamp": "2025-05-07T20:26:48.323007", "platform": "Series X", "event_type": "crash", "code": "STACK_OVERFLOW", "fps": 25.57, "latency": 92.56, "level": "Level-10"}
+{"timestamp": "2025-05-07T20:26:50.333934", "platform": "PC", "event_type": "crash", "code": "GPU_TIMEOUT", "fps": 17.09, "latency": 211.04, "level": "Level-4"}
+{"timestamp": "2025-05-07T20:26:52.347654", "platform": "Xbox One", "event_type": "crash", "code": "GPU_TIMEOUT", "fps": 36.25, "latency": 135.57, "level": "Level-2"}
+{"timestamp": "2025-05-07T20:26:54.356172", "platform": "Xbox One", "event_type": "crash", "code": "GPU_TIMEOUT", "fps": 57.96, "latency": 246.0, "level": "Level-1"}
+{"timestamp": "2025-05-07T20:26:56.364674", "platform": "Xbox One", "event_type": "crash", "code": "NULL_PTR", "fps": 13.78, "latency": 96.92, "level": "Level-9"}
+{"timestamp": "2025-05-07T20:26:58.380963", "platform": "Series X", "event_type": "crash", "code": "NULL_PTR", "fps": 34.02, "latency": 112.85, "level": "Level-8"}
+{"timestamp": "2025-05-07T20:27:00.385373", "platform": "Series X", "event_type": "crash", "code": "NULL_PTR", "fps": 39.29, "latency": 53.86, "level": "Level-2"}
+{"timestamp": "2025-05-07T20:27:02.395638", "platform": "Xbox One", "event_type": "crash", "code": "STACK_OVERFLOW", "fps": 42.24, "latency": 121.94, "level": "Level-4"}
